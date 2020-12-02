@@ -1,8 +1,10 @@
 https://serverfault.com/questions/421758/apt-get-not-found-on-my-vps/423420
 
 
+apt-git install in centos
 https://phoenixnap.com/kb/how-to-install-git-on-centos-7
 
+go install in centos
 https://www.howtoforge.com/how-to-install-go-programming-language-on-linux-ubuntu-debian-centos/
 
 
@@ -15,3 +17,5 @@ vim tutorial
 i  - to start write in vim editor
 
 :x - to save file
+screen install in centos
+https://www.linuxcnf.com/2019/10/how-to-install-screen-utility-in-centos.html
